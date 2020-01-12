@@ -37,7 +37,7 @@ Getting used to a completely new IDE as well as learning all the various library
 
 ## License
 
-    Copyright [2020] [name of copyright owner]
+    Copyright [2020] [Sam J. Kim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
